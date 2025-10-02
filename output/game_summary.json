@@ -1,0 +1,386 @@
+{
+  "scoring_summary": [
+    {
+      "goal": "1",
+      "period": "1",
+      "time": "1:08",
+      "strength": "PP",
+      "team": "PIT",
+      "goal_scorer": "18 J.PULJUJARVI(1)",
+      "assists": ["41 V.KOIVUNEN(1)", "26 T.BROZ(1)"],
+      "away_on_ice": "18 , 26 , 30 , 41 , 45 , 52",
+      "home_on_ice": "1 , 10 , 22 , 23 , 24"
+    },
+    {
+      "goal": "2",
+      "period": "1",
+      "time": "3:25",
+      "strength": "PP",
+      "team": "BUF",
+      "goal_scorer": "77 J.PETERKA(1)",
+      "assists": ["22 J.QUINN(1)", "10 H.JOKIHARJU(1)"],
+      "away_on_ice": "4 , 10 , 11 , 27 , 30",
+      "home_on_ice": "1 , 10 , 22 , 72 , 77 , 89"
+    },
+    {
+      "goal": "3",
+      "period": "2",
+      "time": "0:46",
+      "strength": "EV",
+      "team": "BUF",
+      "goal_scorer": "77 J.PETERKA(2)",
+      "assists": ["89 A.TUCH(1)", "10 H.JOKIHARJU(2)"],
+      "away_on_ice": "10 , 18 , 27 , 30 , 48 , 81",
+      "home_on_ice": "1 , 10 , 23 , 72 , 77 , 89"
+    },
+    {
+      "goal": "4",
+      "period": "2",
+      "time": "2:29",
+      "strength": "EV",
+      "team": "BUF",
+      "goal_scorer": "25 O.POWER(1)",
+      "assists": ["4 B.BYRAM(1)", "20 J.KULICH(1)"],
+      "away_on_ice": "7 , 11 , 30 , 41 , 45 , 52",
+      "home_on_ice": "1 , 4 , 13 , 19 , 20 , 25"
+    },
+    {
+      "goal": "5",
+      "period": "2",
+      "time": "3:29",
+      "strength": "EV",
+      "team": "BUF",
+      "goal_scorer": "10 H.JOKIHARJU(1)",
+      "assists": ["24 D.COZENS(1)", "9 Z.BENSON(1)"],
+      "away_on_ice": "2 , 4 , 5 , 10 , 19 , 30",
+      "home_on_ice": "1 , 9 , 10 , 22 , 23 , 24"
+    },
+    {
+      "goal": "6",
+      "period": "2",
+      "time": "4:20",
+      "strength": "EV",
+      "team": "BUF",
+      "goal_scorer": "81 S.LAFFERTY(1)",
+      "assists": ["29 B.MALENSTYN(1)", "96 N.AUBE-KUBEL(1)"],
+      "away_on_ice": "7 , 18 , 26 , 30 , 45 , 48",
+      "home_on_ice": "1 , 29 , 75 , 78 , 81 , 96"
+    },
+    {
+      "goal": "7",
+      "period": "2",
+      "time": "5:26",
+      "strength": "EV",
+      "team": "BUF",
+      "goal_scorer": "77 J.PETERKA(3)",
+      "assists": ["72 T.THOMPSON(1)", "25 O.POWER(1)"],
+      "away_on_ice": "4 , 5 , 16 , 30 , 74 , 85",
+      "home_on_ice": "1 , 4 , 25 , 72 , 77 , 89"
+    },
+    {
+      "goal": "8",
+      "period": "3",
+      "time": "3:42",
+      "strength": "EV",
+      "team": "BUF",
+      "goal_scorer": "24 D.COZENS(1)",
+      "assists": [],
+      "away_on_ice": "7 , 18 , 26 , 31 , 45 , 48",
+      "home_on_ice": "1 , 9 , 22 , 24 , 75 , 78"
+    },
+    {
+      "goal": "9",
+      "period": "3",
+      "time": "8:33",
+      "strength": "PP",
+      "team": "PIT",
+      "goal_scorer": "18 J.PULJUJARVI(2)",
+      "assists": ["2 R.MCGROARTY(1)", "10 D.O'CONNOR(1)"],
+      "away_on_ice": "5 , 18 , 26 , 31 , 41 , 52",
+      "home_on_ice": "1 , 25 , 29 , 75 , 89"
+    },
+    {
+      "goal": "10",
+      "period": "3",
+      "time": "8:52",
+      "strength": "EV",
+      "team": "PIT",
+      "goal_scorer": "18 J.PULJUJARVI(3)",
+      "assists": ["85 A.HAYES(1)", "26 T.BROZ(2)"],
+      "away_on_ice": "4 , 5 , 18 , 26 , 31 , 85",
+      "home_on_ice": "1 , 13 , 19 , 20 , 23 , 78"
+    }
+  ],
+  "penalty_summary": {
+    "home": {
+      "penalties": [
+        {
+          "penalty_no": "1",
+          "period": "1",
+          "time": "0:28",
+          "player": "72 T.THOMPSON",
+          "pim": "2",
+          "penalty": "Tripping"
+        },
+        {
+          "penalty_no": "2",
+          "period": "3",
+          "time": "7:15",
+          "player": "81 S.LAFFERTY",
+          "pim": "2",
+          "penalty": "Roughing"
+        },
+        {
+          "penalty_no": "3",
+          "period": "3",
+          "time": "7:15",
+          "player": "4 B.BYRAM",
+          "pim": "2",
+          "penalty": "Roughing"
+        },
+        {
+          "penalty_no": "4",
+          "period": "3",
+          "time": "7:15",
+          "player": "9 Z.BENSON",
+          "pim": "2",
+          "penalty": "Roughing"
+        },
+        {
+          "penalty_no": "5",
+          "period": "3",
+          "time": "12:44",
+          "player": "24 D.COZENS",
+          "pim": "2",
+          "penalty": "Roughing"
+        }
+      ],
+      "totals": "5-10",
+      "power_play": "1-3/04:06"
+    },
+    "away": {
+      "penalties": [
+        {
+          "penalty_no": "1",
+          "period": "1",
+          "time": "3:19",
+          "player": "74 T.HOWE",
+          "pim": "4",
+          "penalty": "High-sticking - double minor"
+        },
+        {
+          "penalty_no": "2",
+          "period": "1",
+          "time": "5:25",
+          "player": "7 J.LUDVIG",
+          "pim": "2",
+          "penalty": "Hooking"
+        },
+        {
+          "penalty_no": "3",
+          "period": "3",
+          "time": "7:15",
+          "player": "81 M.HOLLOWELL",
+          "pim": "2",
+          "penalty": "Roughing"
+        },
+        {
+          "penalty_no": "4",
+          "period": "3",
+          "time": "7:15",
+          "player": "27 R.GRAVES",
+          "pim": "2",
+          "penalty": "Roughing"
+        },
+        {
+          "penalty_no": "5",
+          "period": "3",
+          "time": "12:44",
+          "player": "18 J.PULJUJARVI",
+          "pim": "2",
+          "penalty": "Roughing"
+        }
+      ],
+      "totals": "5-12",
+      "power_play": "2-2/01:58"
+    }
+  },
+  "by_period": {
+    "home": [
+      {
+        "period": "1",
+        "goals": "1",
+        "shots": "16",
+        "penalties": "1",
+        "pim": "2"
+      },
+      {
+        "period": "2",
+        "goals": "5",
+        "shots": "19",
+        "penalties": "0",
+        "pim": "0"
+      },
+      {
+        "period": "3",
+        "goals": "1",
+        "shots": "8",
+        "penalties": "4",
+        "pim": "8"
+      },
+      {
+        "period": "TOT",
+        "goals": "7",
+        "shots": "43",
+        "penalties": "5",
+        "pim": "10"
+      }
+    ],
+    "away": [
+      {
+        "period": "1",
+        "goals": "1",
+        "shots": "7",
+        "penalties": "2",
+        "pim": "6"
+      },
+      {
+        "period": "2",
+        "goals": "0",
+        "shots": "5",
+        "penalties": "0",
+        "pim": "0"
+      },
+      {
+        "period": "3",
+        "goals": "2",
+        "shots": "6",
+        "penalties": "3",
+        "pim": "6"
+      },
+      {
+        "period": "TOT",
+        "goals": "3",
+        "shots": "18",
+        "penalties": "5",
+        "pim": "12"
+      }
+    ]
+  },
+  "power_play": {
+    "home": {
+      "5v4": "1-1/04:06",
+      "5v3": "",
+      "4v3": ""
+    },
+    "away": {
+      "5v4": "2-2/01:58",
+      "5v3": "",
+      "4v3": ""
+    }
+  },
+  "even_strength": {
+    "home": {
+      "5v5": "6-5/51:56",
+      "4v4": "0-1/02:00",
+      "3v3": "",
+      "TOT": "6-6/53:56"
+    },
+    "away": {
+      "5v5": "1-5/51:56",
+      "4v4": "0-1/02:00",
+      "3v3": "",
+      "TOT": "1-6/53:56"
+    }
+  },
+  "goaltender_summary": {
+    "home": [
+      [
+        "BUFFALO SABRES",
+        "TOI",
+        "GOALS-SHOTS AGAINST",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1",
+        "G",
+        "LUUKKONEN, UKKO-PEKKA (W)",
+        "53:56",
+        "04:06",
+        "01:58",
+        "60:00",
+        "1-7",
+        "0-5",
+        "2-6",
+        "3-18"
+      ],
+      ["47", "G", "REIMER, JAMES", "", "", "", "", "", "", "", ""],
+      [
+        "TEAM TOTALS",
+        "53:56",
+        "04:06",
+        "01:58",
+        "60:00",
+        "1-7",
+        "0-5",
+        "2-6",
+        "3-18",
+        "",
+        ""
+      ]
+    ],
+    "away": [
+      [
+        "30",
+        "G",
+        "BLOMQVIST, JOEL (L)",
+        "20:40",
+        "00:40",
+        "04:06",
+        "25:26",
+        "1-16",
+        "5-8",
+        "",
+        "6-24"
+      ],
+      [
+        "31",
+        "G",
+        "LARSSON, FILIP",
+        "33:16",
+        "01:18",
+        "00:00",
+        "34:34",
+        "",
+        "0-11",
+        "1-8",
+        "1-19"
+      ],
+      [
+        "TEAM TOTALS",
+        "53:56",
+        "01:58",
+        "04:06",
+        "60:00",
+        "1-16",
+        "5-19",
+        "1-8",
+        "7-43",
+        "",
+        ""
+      ]
+    ]
+  },
+  "officials": {
+    "referees": [],
+    "linesperson": []
+  },
+  "three_stars": []
+}
